@@ -23,7 +23,7 @@
     "babel-preset-react-native": "^4.0.0",
     "react": "16.3.1",
     "react-audio-visualizer": "^1.0.3",
-    "react-native": "~0.55.2",
+    "react-native": "~0.62.0",
     "react-native-countdown-component": "^1.7.1",
     "react-native-fontawesome": "^5.7.0",
     "react-native-loader": "^1.2.1",
@@ -35,7 +35,7 @@
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0",
     "remote-redux-devtools": "^0.5.12",
-    "socket.io-client": "^2.1.1",
+    "socket.io-client": "^2.4.0",
     "tcomb-form-native": "^0.6.15"
   }
 }
