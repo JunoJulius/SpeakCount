@@ -34,7 +34,7 @@
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0",
-    "remote-redux-devtools": "^0.5.12",
+    "remote-redux-devtools": "^0.5.14",
     "socket.io-client": "^2.1.1",
     "tcomb-form-native": "^0.6.15"
   }
